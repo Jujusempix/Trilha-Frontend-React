@@ -1,0 +1,10 @@
+.container3 {
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+}
+
+input,
+textarea {
+  border-radius: 10px;
+}
